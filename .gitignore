@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+virtualenv
+dg.sqlite3
+/static
+.DS_Store
+
